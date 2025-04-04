@@ -25,7 +25,7 @@ Welcome to **Python Zero to Hero**, a structured repository designed to help you
 - Multi-threading  
 - Data Science with Pandas & NumPy  
 - AI & Machine Learning Basics  
-- Building AI Chatbots  
+- Building AI Chatbots. 
 
 ---
 
